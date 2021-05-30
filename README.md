@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 + `JavaScript`  good
 + `<HTML>` + `{CSS}`  great
 + `Git` good
-+ `Vue.js good
++ `Vue.js` good
