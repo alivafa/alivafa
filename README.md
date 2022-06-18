@@ -8,7 +8,7 @@ Make that thing of yours even better. I can help either whit the big picture or 
 </br>
 
 ### 🌱The Full Shebang
-+ Build killer websites as a "full-stack" developer
++ Build killer websites as a "Front End" developer
 + Online instructor
 + have friend in web world
 
@@ -21,3 +21,4 @@ You can click the Preview link to take a look at your changes.
 + `<HTML>` + `{CSS}`  great
 + `Git` good
 + `Vue.js` good
++ `Bootstrap` good
